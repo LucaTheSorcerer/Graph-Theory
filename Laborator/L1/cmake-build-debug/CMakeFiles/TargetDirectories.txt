@@ -1,0 +1,3 @@
+/home/lukachu/UBB/Semestrul_II/Graph-Theory/Laborator/L1/cmake-build-debug/CMakeFiles/L1.dir
+/home/lukachu/UBB/Semestrul_II/Graph-Theory/Laborator/L1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lukachu/UBB/Semestrul_II/Graph-Theory/Laborator/L1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
