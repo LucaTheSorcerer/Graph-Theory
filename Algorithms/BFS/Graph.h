@@ -15,7 +15,6 @@ public:
     Graph();
     explicit Graph(const string& filename);
     void BFS(int s);
-    void DFS(int s);
 };
 
 
