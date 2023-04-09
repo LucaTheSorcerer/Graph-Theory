@@ -14,8 +14,11 @@ using std::vector, std::string;
 
 class Graph{
 private:
+    //Number of nodes
     int nodes{};
+    //Number of edges
     int edges{};
+    //Adjacency list
     vector<vector<int>> adjacencyList;
 
 public:
