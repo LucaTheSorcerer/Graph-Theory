@@ -1,0 +1,11 @@
+# ninja log v5
+0	35	1684182799526064090	build.ninja	a852e16f1c1ca731
+2	408	1684182735757253642	CMakeFiles/Prim_real_cities.dir/main.cpp.o	8b5559210f09166a
+3	516	1684182735865984199	CMakeFiles/Prim_real_cities.dir/Graph.cpp.o	7edbeff4890515b0
+516	552	1684182735904014154	Prim_real_cities	405d12b9463d5ba7
+2	499	1684182801448113565	CMakeFiles/Prim_real_cities.dir/Graph.cpp.o	7edbeff4890515b0
+499	532	1684182801483293114	Prim_real_cities	405d12b9463d5ba7
+2	550	1684183006622843987	CMakeFiles/Prim_real_cities.dir/Graph.cpp.o	7edbeff4890515b0
+550	585	1684183006660690565	Prim_real_cities	405d12b9463d5ba7
+1	504	1684183017970623037	CMakeFiles/Prim_real_cities.dir/Graph.cpp.o	7edbeff4890515b0
+504	540	1684183018009283082	Prim_real_cities	405d12b9463d5ba7

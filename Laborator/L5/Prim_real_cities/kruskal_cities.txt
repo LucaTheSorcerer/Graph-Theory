@@ -1,0 +1,5 @@
+CityA CityB 10
+CityB CityC 5
+CityA CityC 8
+CityD CityE 12
+CityB CityD 7
