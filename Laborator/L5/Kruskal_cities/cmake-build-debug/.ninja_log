@@ -1,0 +1,13 @@
+# ninja log v5
+0	351	1684180845443177707	CMakeFiles/Kruskal_cities.dir/main.cpp.o	1e5989e813cc2dbb
+1	462	1684180845554069467	CMakeFiles/Kruskal_cities.dir/Graph.cpp.o	b7bcd00df1630541
+462	518	1684180845612552368	Kruskal_cities	7b653aed6f7fa488
+2	320	1684180879239628800	CMakeFiles/Kruskal_cities.dir/main.cpp.o	1e5989e813cc2dbb
+2	431	1684180879350728851	CMakeFiles/Kruskal_cities.dir/Graph.cpp.o	b7bcd00df1630541
+431	464	1684180879384925456	Kruskal_cities	7b653aed6f7fa488
+2	324	1684181007684824534	CMakeFiles/Kruskal_cities.dir/main.cpp.o	1e5989e813cc2dbb
+3	437	1684181007797524722	CMakeFiles/Kruskal_cities.dir/Graph.cpp.o	b7bcd00df1630541
+437	472	1684181007834033187	Kruskal_cities	7b653aed6f7fa488
+2	343	1684181085670949277	CMakeFiles/Kruskal_cities.dir/main.cpp.o	1e5989e813cc2dbb
+3	458	1684181085786054204	CMakeFiles/Kruskal_cities.dir/Graph.cpp.o	b7bcd00df1630541
+458	493	1684181085823710759	Kruskal_cities	7b653aed6f7fa488

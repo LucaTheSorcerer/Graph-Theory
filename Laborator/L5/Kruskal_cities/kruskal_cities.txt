@@ -1,0 +1,9 @@
+6
+City1 City2 4
+City2 City3 2
+City3 City4 3
+City4 City1 1
+City1 City5 5
+City5 City6 6
+City2 City5 7
+City3 City6 8
