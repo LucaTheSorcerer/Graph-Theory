@@ -1,0 +1,26 @@
+# ninja log v5
+1	489	1684216689570008551	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+489	526	1684216689609181940	Bellman_ford_real_cities	4298a710c9c1d2f2
+6	27	1684217016886573061	CMakeFiles/Bellman_ford_real_cities.dir/Graph.cpp.o	621cc123bbfd4615
+6	399	1684217017257107767	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+399	434	1684217017293817331	Bellman_ford_real_cities	ac1d8502c29ad9bf
+2	458	1684217097366014622	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+458	498	1684217097408402111	Bellman_ford_real_cities	ac1d8502c29ad9bf
+2	357	1684217159647422401	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+357	392	1684217159684708882	Bellman_ford_real_cities	ac1d8502c29ad9bf
+1	366	1684217212347094105	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+367	403	1684217212385356298	Bellman_ford_real_cities	ac1d8502c29ad9bf
+1	365	1684217220986988331	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+365	398	1684217221022613867	Bellman_ford_real_cities	ac1d8502c29ad9bf
+2	457	1684217241397115680	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+457	494	1684217241436520311	Bellman_ford_real_cities	ac1d8502c29ad9bf
+2	411	1684217446807720580	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+411	447	1684217446845011786	Bellman_ford_real_cities	ac1d8502c29ad9bf
+1	365	1684217598852218872	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+365	400	1684217598888923626	Bellman_ford_real_cities	ac1d8502c29ad9bf
+1	350	1684217612449586390	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+350	382	1684217612482932978	Bellman_ford_real_cities	ac1d8502c29ad9bf
+2	400	1684217661992912878	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+400	440	1684217662030164667	Bellman_ford_real_cities	ac1d8502c29ad9bf
+1	448	1684217701014498113	CMakeFiles/Bellman_ford_real_cities.dir/main.cpp.o	adb11a2b378d0658
+448	483	1684217701051724653	Bellman_ford_real_cities	ac1d8502c29ad9bf

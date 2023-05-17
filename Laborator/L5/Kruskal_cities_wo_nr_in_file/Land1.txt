@@ -1,0 +1,11 @@
+Cluj Sibiu 7
+Cluj Bucuresti 4
+Sibiu Timisoara 11
+Sibiu Bucuresti 9
+Sibiu Iasi 10
+Timisoara Iasi 5
+Bucuresti Iasi 15
+Bucuresti Arad 6
+Iasi Arad 12
+Iasi Suceava 8
+Arad Suceava 13

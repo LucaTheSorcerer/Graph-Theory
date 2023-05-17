@@ -1,0 +1,11 @@
+Sibiu Iasi 4
+Sibiu Mures 8
+Iasi Mures 11
+Bucuresti Cluj 7
+Bucuresti Arad 4
+Bucuresti Bacau 2
+Cluj Olt 9
+Cluj Arad 14
+Olt Arad 10
+Arad Suceava 2
+Suceava Bacau 6

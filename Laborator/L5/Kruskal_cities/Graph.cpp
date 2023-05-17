@@ -16,7 +16,6 @@ Graph::Graph(const string &filename) {
         return;
     }
 
-    inputFile >> numVertices;
 
     string city1, city2;
     int weight;
