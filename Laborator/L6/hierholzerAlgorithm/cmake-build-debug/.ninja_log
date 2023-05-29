@@ -1,0 +1,19 @@
+# ninja log v5
+0	392	1685387734875649836	CMakeFiles/hierholzerAlgorithm.dir/main.cpp.o	d11715a8f44c317b
+0	471	1685387734954691766	CMakeFiles/hierholzerAlgorithm.dir/Graph.cpp.o	c2fbf7d35e3d71a4
+471	508	1685387734992965342	hierholzerAlgorithm	8d5d5d19d658b0b2
+1	381	1685387769955475423	CMakeFiles/hierholzerAlgorithm.dir/main.cpp.o	d11715a8f44c317b
+2	470	1685387770044354839	CMakeFiles/hierholzerAlgorithm.dir/Graph.cpp.o	c2fbf7d35e3d71a4
+470	506	1685387770082661957	hierholzerAlgorithm	8d5d5d19d658b0b2
+2	471	1685387849473492732	CMakeFiles/hierholzerAlgorithm.dir/Graph.cpp.o	c2fbf7d35e3d71a4
+472	510	1685387849514719916	hierholzerAlgorithm	8d5d5d19d658b0b2
+1	464	1685387925363316137	CMakeFiles/hierholzerAlgorithm.dir/Graph.cpp.o	c2fbf7d35e3d71a4
+464	502	1685387925404115699	hierholzerAlgorithm	8d5d5d19d658b0b2
+2	480	1685387973430549090	CMakeFiles/hierholzerAlgorithm.dir/Graph.cpp.o	c2fbf7d35e3d71a4
+481	519	1685387973471308235	hierholzerAlgorithm	8d5d5d19d658b0b2
+2	770	1685388913795645868	CMakeFiles/hierholzerAlgorithm.dir/Graph.cpp.o	c2fbf7d35e3d71a4
+770	821	1685388913850522317	hierholzerAlgorithm	8d5d5d19d658b0b2
+2	488	1685389185799001259	CMakeFiles/hierholzerAlgorithm.dir/Graph.cpp.o	c2fbf7d35e3d71a4
+488	522	1685389185836176089	hierholzerAlgorithm	8d5d5d19d658b0b2
+1	476	1685389255133563748	CMakeFiles/hierholzerAlgorithm.dir/Graph.cpp.o	c2fbf7d35e3d71a4
+476	509	1685389255169337833	hierholzerAlgorithm	8d5d5d19d658b0b2

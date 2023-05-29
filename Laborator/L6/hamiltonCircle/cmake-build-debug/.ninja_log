@@ -1,0 +1,14 @@
+# ninja log v5
+0	376	1685386858431779541	CMakeFiles/hamiltonCircle.dir/main.cpp.o	dc8a899b8933e55c
+1	458	1685386858514305413	CMakeFiles/hamiltonCircle.dir/Graph.cpp.o	6771b03e660d50cf
+458	497	1685386858555606598	hamiltonCircle	31f46bc346bb0ad1
+2	357	1685386870628020406	CMakeFiles/hamiltonCircle.dir/main.cpp.o	dc8a899b8933e55c
+357	393	1685386870668341131	hamiltonCircle	31f46bc346bb0ad1
+2	422	1685386917578025102	CMakeFiles/hamiltonCircle.dir/Graph.cpp.o	6771b03e660d50cf
+422	457	1685386917615121735	hamiltonCircle	31f46bc346bb0ad1
+1	556	1685393245519931289	CMakeFiles/hamiltonCircle.dir/main.cpp.o	dc8a899b8933e55c
+556	603	1685393245569651292	hamiltonCircle	31f46bc346bb0ad1
+1	312	1685393251130548910	CMakeFiles/hamiltonCircle.dir/main.cpp.o	dc8a899b8933e55c
+312	341	1685393251161116348	hamiltonCircle	31f46bc346bb0ad1
+2	732	1685393702401892854	CMakeFiles/hamiltonCircle.dir/Graph.cpp.o	6771b03e660d50cf
+732	783	1685393702457132159	hamiltonCircle	31f46bc346bb0ad1

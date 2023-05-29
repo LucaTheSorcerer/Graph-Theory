@@ -1,0 +1,9 @@
+Sibiu Bucuresti
+Sibiu Suceava
+Sibiu Oradea
+Suceava Oradea
+Bucuresti Suceava
+Bucuresti Oradea
+Cluj Arad
+Cluj Timisoara
+Arad Timisoara
