@@ -4,7 +4,7 @@
 
 int main() {
     // Create a Graph object by providing the filename
-    Graph graph("../Land.txt");
+    Graph graph("../Land2.txt");
 
     // Find the Eulerian path/circuit
     vector<string> eulerianPath = graph.findEulerianPath();

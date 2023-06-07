@@ -1,9 +1,9 @@
-Sibiu Bucuresti
+Sibiu Cluj
 Sibiu Suceava
-Sibiu Oradea
-Suceava Oradea
-Bucuresti Suceava
+Cluj Bucuresti
+Cluj Suceava
+Cluj Bistrita
 Bucuresti Oradea
-Cluj Arad
-Cluj Timisoara
-Arad Timisoara
+Oradea Arges
+Arges Suceava
+Suceava Bistrita

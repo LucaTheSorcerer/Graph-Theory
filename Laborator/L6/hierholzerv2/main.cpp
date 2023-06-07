@@ -10,6 +10,11 @@ using namespace std;
 
 class Graph {
 private:
+
+    struct Node {
+        string name;
+        Node* next;
+    };
     unordered_map<string, vector<string>> adjacencyList;
 
 
@@ -125,8 +130,14 @@ public:
             }
 
             // If all vertices have even degrees, start from any vertex
+//            if (oddDegreeVertices.empty()) {
+//                oddDegreeVertices.push_back(component.front());
+//            }
+
+            //If all vertices have even degrees, start from the vertex that represents Sibiu
+
             if (oddDegreeVertices.empty()) {
-                oddDegreeVertices.push_back(component.front());
+                oddDegreeVertices.push_back("Sibiu");
             }
 
             // Process each component separately
@@ -158,7 +169,14 @@ public:
 
         return eulerianPaths;
     }
+
+
+
 };
+
+
+
+
 
 int main() {
     Graph graph("../Land2.txt");
